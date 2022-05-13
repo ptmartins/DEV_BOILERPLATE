@@ -10,7 +10,6 @@ import browserSync from 'browser-sync';
 import zip from 'gulp-zip';
 import replace from 'gulp-replace';
 import info from './package.json';
-import concat from 'gulp-concat';
 
 const sass = require('gulp-sass')(require('sass'));
 const server = browserSync.create();
