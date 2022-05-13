@@ -1,5 +1,3 @@
-# DEV_SANDBOX
-
 Web Development Boilerplate
 ======
 
